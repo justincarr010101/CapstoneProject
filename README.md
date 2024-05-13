@@ -2,7 +2,7 @@
 
 Queens University Capstone Project. 
 
-Web-based Calorie Counter. Uses CNN to determine the workout being done (benchpress, squat, deadlift, or none) and uses that output to do a calories burnt calculation. 
+Web-based Calorie Counter. Uses CNN to determine the workout being done (benchpress, squat, deadlift, or none) and uses that output along side the users inputted data to do a calories burnt calculation. 
 
 Calculations for calorie prediction were 96.9% accurate in comparison to the gold standard of an apple watch.
 
